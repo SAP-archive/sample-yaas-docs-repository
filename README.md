@@ -10,7 +10,6 @@ This README file includes important information that you should know regarding t
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Development](#development)
 * [License](#license)
 * [Defects and Feedback](#defects-and-feedback)
 * [Contribution](#contribution)
