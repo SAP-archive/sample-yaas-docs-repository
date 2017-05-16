@@ -1,0 +1,1 @@
+If you add images to your documentation, place all image files in the docu/files/img directory. This sample directory includes a YaaS.png image file. For images in release notes, however, use the /docu/release_notes/img directory. 
