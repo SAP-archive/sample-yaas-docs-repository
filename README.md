@@ -38,7 +38,7 @@ Read the [CONTRIBUTING](CONTRIBUTING.md) file for information about how to contr
 
 ## Credits
 
-[![YaaS](docu/files/img/YaaS.png)](https://yaas.io)
+[![YaaS](/docu/files/img/YaaS.png)](https://yaas.io)
 
 ❤️ from the GitHub team @ YaaS
 
