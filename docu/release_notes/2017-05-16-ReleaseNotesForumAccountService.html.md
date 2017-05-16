@@ -11,7 +11,7 @@ An engaging release note:
 * Has a headline that is:
   + Attention-grabbing but professional
   + Brief but descriptive, allowing readers to see, at a glance, what is relevant to them
-  + Meets the Dev Portal's Documentation Guidelines Style & Standards 
+  + Meets the Dev Portal's Documentation Guidelines and Style & Standards 
 * Answers these questions: 
   + What changed because of this feature or resolved issue?
   + How was the behavior different before this release?
