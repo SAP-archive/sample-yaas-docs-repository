@@ -1,0 +1,79 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @MindyJamiel
+ Sign out
+ Unwatch 1
+  Star 0
+ Fork 0 MindyJamiel/docs-devportal-APIs
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathdocs-devportal-APIs/docu/files/200_Tutorial_CreateAccount.html.md.eco
+be9d53d  19 hours ago
+@MindyJamiel MindyJamiel Update and rename 200_Tutorial_CreateAccount to 200_Tutorial_CreateAc…
+1 contributor
+RawBlameHistory     
+62 lines (44 sloc)  2.56 KB
+
+---
+title: 'Create a forum Account'
+type: 'Tutorial'
+---
+
+Every service's API documentation requires one or more tutorials that provides step-by-step instructions for how to use the service. You can either use this template to provide sample exercises with example code, or you can use the [API Notebook](https://devportal.yaas.io/internal/tools/apinotebook/) to create detailed, interactive tutorials. 
+
+In each tutorial: 
+
+* Introduce the tutorial with the objective(s) and purpose.
+* List any prerequisites, such as scopes, sample data, or third-party tools.
+* Briefly describe the example scenario, if necessary.
+* For each step in the process, show a sample request and a sample of a successful response.
+* At the end of each tutorial, include the [global partial](https://devportal.yaas.io/internal/tools/documentationsdk/#ContentReuse) \<%- @partial('errors_global') %>, which refers readers to the API reference for error code information.
+
+You can optionally provide: 
+* Troubleshooting tips for common errors
+* Use cases that highlight different features 
+
+Create tutorial files that include partials with **html.md.eco** extensions. 
+
+### Example content
+This tutorial describes how to create new user accounts for your online forum. To follow the examples in this tutorial, you must have a valid OAuth2 access token. 
+
+<div class="panel tip">All tutorials are designed so that you can use them with the cURL REST client. You can also use the API Console to try out the API.</div>
+
+### Request
+
+* Method: POST
+* Request URL: https://api.us.yaas.io/hybris/forum/v1/{tenant}/account
+* Body: The request body must contain the **email** and **password** attributes.
+
+This example shows the format of the request body:
+```
+{
+    "email": "user@emaylz.com",
+    "password": "secret"
+}
+```
+
+#### Validation
+The service validates the request using these criteria: 
+* If the email already exists in the system, the service returns an `Email must be unique` error. 
+* If the password does not comply with the password requirements, the service returns an `Invalid password` error and displays the password requirements. 
+* If the email format is not valid, the service returns an `Invalid email address` error. 
+
+### Response
+When you successfully create a new account, the service returns a confirmation response with this information: 
+
+* Status code `201`
+* Body: The response body includes a unique value for the new account's **userId** parameter. 
+
+This example shows the format of the response body: 
+```
+[{"userId":"JdkJCHNYpqYnmkrJY0L2EPbhHOJuhsjD"}]
+```
+
+#### Error codes
+
+<%- @partial('errors_global') %>
