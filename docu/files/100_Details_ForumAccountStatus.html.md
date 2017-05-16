@@ -11,7 +11,7 @@ Each service must include one or more Details-type document. Details documents p
 * Considerations, limitations, or workarounds that help users make the most of the service. Provide this in a separate "Considerations" Details document, also provided in this repository. 
 
 ### Details metadata
-In the metadata for each Details document, you can change the 'title' to any concise, descriptive title. The 'type' must remain 'Details'. 
+In the metadata at the beginning of each Details document, you can change the **title** value to any concise, descriptive title. The value for **type** must remain `Details`. 
 
 ### Example content
 Here is an example of Details-level content for the fictional Forum Accounts service in the imaginary **Forums** package: 
