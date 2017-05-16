@@ -1,0 +1,22 @@
+---
+service: Forum Account
+term: moderator owner
+description: A super-user role in the Forum Accounts service that has the permissions of both a moderator and a <b>Forum</b> package project owner.
+---
+
+Use this template to define glossary terms specific to your service. Do not define YaaS global glossary terms or terms that are familiar to most users of your service. 
+
+In YaaS, glossary terms that you can use as tooltips in other parts of the documentation are called partials. Partials also appear in your service's API Documentation under the Glossary heading. 
+
+To create a partial: 
+1. Create an HTML file in the /docu/partials/ directory of your repository. 
+2. The file includes only the metadata shown between the dashes at the top of this file and nothing else. Define the metadata:
+  + service: {your service's name}
+  + term: {the word or term you are defining}
+  + description: {the definition}
+3. Save the file using the syntax `yourservice_partialname.html`. 
+
+To use the partial as a tooltip in other documents in your API documentation, simply paste this string into your document where you want the term to appear, replacing "partial_name" with the name of your partial file: <%- @partial('partial_name') %>
+
+For example: 
+In the Forum Accounts service, a <%- @partial('forumAccounts_moderatorowner') %> has all the priveleges of a forum moderator as well as a YaaS project owner. 
