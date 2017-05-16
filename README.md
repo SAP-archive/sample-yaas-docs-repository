@@ -21,7 +21,8 @@ To make and use your own copy of this template repository:
 2. Unzip the downloaded ZIP file to your local machine. 
 3. Rename the main folder, **sample-yaas-docs-repositor-master**, to your service name. For example: **ForumAccounts**
 4. Copy the renamed directory and its files to the source code repository for your service.
-5. Read all topics in the [Documentation SDK](https://devportal.yaas.io/tools/) to learn how to manage your documentation, register it in the Dev Portal, submit content for review, and publish.
+5. Replace the content in the saved templates with content specific to your own YaaS API documentation. 
+6. Read all topics in the [Documentation SDK](https://devportal.yaas.io/tools/) to learn how to manage your documentation, register it in the Dev Portal, submit content for review, and publish.
 
 ## Usage 
 Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standard requirements. 
