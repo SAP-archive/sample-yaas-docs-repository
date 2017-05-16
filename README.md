@@ -3,11 +3,10 @@
 Repository template and documentation templates for Dev Portal API documentation
 
 ## Overview
-Download this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the Documentation SDK on the [Dev Portal](https://devportal.yaas.io/tools/) for more information about how to configure, register, and publish your documentation repository to the Dev Portal.
+Download this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the Documentation SDK on the [Dev Portal](https://devportal.yaas.io/tools/) for more information about how to configure, register, and publish your documentation.
 
 ## Table of Contents
-
-Make it easier to your project user and provide an easy to use table of contents (list of links) to navigate through the readme document.
+This README file includes important information that you should know regarding the documentation repository template and your use of the YaaS open source content. Click a link to jump to the selected section. 
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -30,7 +29,7 @@ To make and use your own copy of this template repository:
 Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standard requirements. 
 
 ## License
-By using the templates in this repository, you agree to the terms and conditions of the licensing agreeement. View the LICENSE file in the root of this repository for more information.  
+By using the templates in this repository, you agree to the terms and conditions of the licensing agreement. View the LICENSE file in the root of this repository for more information.  
 
 ## Defects and Feedback
 
