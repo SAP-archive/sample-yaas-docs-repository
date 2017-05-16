@@ -20,7 +20,7 @@ You can optionally provide:
 Create tutorial files that include partials with **html.md.eco** extensions. 
 
 ### Tutorial metadata
-In the metadata for tutorials, you can change the **title** value to any name that concisely describes the tutorial content. The **type** value must remain `Tutorial`. 
+In the metadata at the beginning of each tutorial file, you can change the value of **title** to any name that concisely describes the tutorial content. The **type** value must remain `Tutorial`. 
 
 ### Example content
 This tutorial describes how to create new user accounts for your online forum. To follow the examples in this tutorial, you must have a valid OAuth2 access token. 
