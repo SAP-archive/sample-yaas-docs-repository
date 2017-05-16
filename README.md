@@ -28,7 +28,7 @@ To make and use your own copy of this template repository:
 Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standard requirements. 
 
 ## License
-By using the templates in this repository, you agree to the terms and conditions of the licensing agreement. View the LICENSE file in the root of this repository for more information.  
+By using the templates in this repository, you agree to the terms and conditions of the licensing agreement. View the [LICENSE](LICENSE.md) file in the root of this repository for more information.  
 
 ## Defects and Feedback
 
