@@ -32,7 +32,7 @@ By using the templates in this repository, you agree to the terms and conditions
 
 ## Defects and Feedback
 
-Read the [CONTRIBUTING](CONTRIBUTING) file for information about how to contribute, provide feedback, and report defects in this repository. 
+Read the [CONTRIBUTING](CONTRIBUTING.md) file for information about how to contribute, provide feedback, and report defects in this repository. 
 
 ## Credits
 
