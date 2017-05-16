@@ -1,0 +1,5 @@
+---
+service: Forum Accounts
+term: partial template
+description: A document with nothing else in it that you can use to create your own partials. See the ForumAccounts_moderatorowner.html file in this repository for instructions on using partials. 
+---
