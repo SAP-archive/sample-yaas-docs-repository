@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @MindyJamiel
- Sign out
- Unwatch 1
-  Star 0
- Fork 0 MindyJamiel/docs-devportal-APIs
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathdocs-devportal-APIs/docu/files/200_Tutorial_CreateAccount.html.md.eco
-be9d53d  19 hours ago
-@MindyJamiel MindyJamiel Update and rename 200_Tutorial_CreateAccount to 200_Tutorial_CreateAc…
-1 contributor
-RawBlameHistory     
-62 lines (44 sloc)  2.56 KB
-
 ---
 title: 'Create a forum Account'
 type: 'Tutorial'
@@ -52,13 +33,13 @@ This tutorial describes how to create new user accounts for your online forum. T
 This example shows the format of the request body:
 ```
 {
-    "email": "user@emaylz.com",
-    "password": "secret"
+    "email": "yoozer@emaylz.com",
+    "password": "secretpassword"
 }
 ```
 
 #### Validation
-The service validates the request using these criteria: 
+The Forum Accounts service validates the request using these criteria: 
 * If the email already exists in the system, the service returns an `Email must be unique` error. 
 * If the password does not comply with the password requirements, the service returns an `Invalid password` error and displays the password requirements. 
 * If the email format is not valid, the service returns an `Invalid email address` error. 
