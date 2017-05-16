@@ -18,7 +18,7 @@ general, see:
 </div>
 
 ### Scopes
-The Accounts service supports these scopes: 
+The Forum Accounts service supports these scopes: 
 
 | Scope   |   Description  | Selected examples of use  |
 
