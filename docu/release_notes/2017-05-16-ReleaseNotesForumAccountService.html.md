@@ -25,8 +25,8 @@ An engaging release note:
   + Do readers need to resubscribe to the package? Migrate to a new version? Back up data files?
   + If readers do not need to take any action to use the updated functionality, say so.
 * Encourages readers to dive deeper with links to:
-  + the service's API Documentation 
-  + related information such as migration instructions
+  + The service's API Documentation 
+  + Related information such as migration instructions
 
 ## Release note metadata
 Use the metadata at the beginning this file as a template. For each release note you publish, update the values of the metadata attributes as follows:
