@@ -4,6 +4,9 @@
  
 Use this template to describe your service and its uses. Maintain the title metadata and formatting. This is the introductory document in your service API documentation. 
 
+### Overview metadata
+Do not change the metadata at the beginning of the Overview file. It must remain as-is to appear in the correct location in the Dev Portal navigation. 
+
 ### Example Content
 Here is an example of Overview content for a sample service called the Forum Accounts service in a sample package called the **Forum** package: 
  
