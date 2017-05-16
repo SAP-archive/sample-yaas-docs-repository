@@ -25,7 +25,7 @@ To make and use your own copy of this template repository:
 6. Read all topics in the [Documentation SDK](https://devportal.yaas.io/tools/) to learn how to manage your documentation, register it in the Dev Portal, submit content for review, and publish.
 
 ## Usage 
-Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standard requirements. 
+Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standards requirements. 
 
 ## License
 By using the templates in this repository, you agree to the terms and conditions of the licensing agreement. View the [LICENSE](LICENSE.md) file in the root of this repository for more information.  
