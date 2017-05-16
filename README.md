@@ -15,7 +15,7 @@ Make it easier to your project user and provide an easy to use table of contents
 * [License](#license)
 * [Defects and Feedback](#defects-and-feedback)
 * [Contribution](#contribution)
-* [Credits[(#credits)
+* [Credits](#credits)
 
 ## Installation
 To make and use your own copy of this template repository: 
