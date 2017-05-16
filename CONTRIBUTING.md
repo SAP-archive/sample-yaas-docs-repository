@@ -7,7 +7,7 @@ There are four ways you can contribute to this project:
 * [Report an Issue](#report-an-issue) 
 * [Contribute Code](#contribute-code) 
 
-When you know your issue or solution is valid and ready for submittal, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. 
+When you know your issue or solution is valid and ready for submittal, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. See also the [Contributor License Agreement](#contributor-license-agreement) section for your responsibilities as a contributor.
 
 ### Help Others
 
