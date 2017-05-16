@@ -3,7 +3,7 @@
 Repository template and documentation templates for Dev Portal API documentation
 
 ## Overview
-Use this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the Documentation SDK on the Dev Portal for more information about how to configure, register, and publish your documentation repository to the Dev Portal.
+Download this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the Documentation SDK on the [Dev Portal](https://devportal.yaas.io/tools/) for more information about how to configure, register, and publish your documentation repository to the Dev Portal.
 
 ## Table of Contents
 
