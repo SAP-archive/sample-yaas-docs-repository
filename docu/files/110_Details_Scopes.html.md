@@ -21,7 +21,9 @@ general, see:
 The Accounts service supports these scopes: 
 
 | Scope   |   Description  | Selected examples of use  |
+
 |---|---|
+
 |**forum.accounts_view** | Use this scope to view an existing forum account. |  
 |**forum.account_manage**| Use this scope to create or modify an existing forum account.     |   
 |**forum.account_delete**| Use this scope to delete a forum account.  | 
