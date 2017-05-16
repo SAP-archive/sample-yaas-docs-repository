@@ -14,7 +14,6 @@ An engaging release note:
   + Meets the Dev Portal's Documentation Guidelines and Style & Standards 
 * Answers these questions: 
   + What changed because of this feature or resolved issue?
-  + How was the behavior different before this release?
   + Are there changes to the UI?
   + Are there changes to the functionality?
   + Does an error message appear?
@@ -22,7 +21,9 @@ An engaging release note:
   + What is the reason for the change? User feedback? An error? Continual improvements?
   + What are the benefits of the change?
   + Who should use the functionality and for what purpose?
-* Explains what readers need to do to take advantage of the change
+* Explains what readers need to do to take advantage of the change.
+  + Do readers need to resubscribe to the package? Migrate to a new version? Back up data files?
+  + If readers do not need to take any action to use the updated functionality, say so.
 * Encourages readers to dive deeper with links to:
   + the service's API Documentation 
   + related information such as migration instructions
@@ -47,7 +48,7 @@ The new Forum Account service, now available for in the **Forums** package, allo
 
 This service extends the current functionality of the **Forums** package, providing a command line interface for forum moderation. You can integrate the accounts service with your existing forum user interface. 
 
-Subscribe to the **Forums** package to use the Forum Accounts service. 
+If you are already subscribed to the **Forums** package, you can start using the new Forum Accounts service. 
 
 For more information about this service, see the [Forum Account service API documentation](#) in the Dev Portal. 
 
