@@ -3,7 +3,7 @@
 Repository template and documentation templates for Dev Portal API documentation
 
 ## Overview
-Download this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the Documentation SDK on the [Dev Portal](https://devportal.yaas.io/tools/) for more information about how to configure, register, and publish your documentation.
+Download this repository as a template for your own YaaS service documentation repository. Your YaaS services require documentation, published on the Dev Portal. This repository template includes the required folder structure and document type templates for your service documentation and release notes. See the [Documentation SDK](https://devportal.yaas.io/tools/) on the Dev Portal for more information about how to configure, register, and publish your documentation.
 
 ## Table of Contents
 This README file includes important information that you should know regarding the documentation repository template and your use of the YaaS open source content. Click a link to jump to the selected section. 
@@ -19,11 +19,10 @@ This README file includes important information that you should know regarding t
 ## Installation
 To make and use your own copy of this template repository: 
 1. Click **Clone or Download** > **Download to ZIP**. 
-2. Click the downloaded ZIP file and unzip it to your local machine. 
-3. Rename the main folder to your service name. For example: userAccounts
-4. If you do not already have a hosting provider, such as GitHub, to hold and manage the versions of your documentation, see the Dev Portal topic **Tools & Resources** > **Documentation SDK** > **Basics** > **Content Storage** to determine how to select a hosting provider.
-5. Add all **/docu** folders to the source code repository for your service. 
-6. Read all topics in the Documentation SDK to learn how to manage your documentation, register it in the Dev Portal, submit content for review, and publish.
+2. Unzip the downloaded ZIP file to your local machine. 
+3. Rename the main folder, **sample-yaas-docs-repositor-master**, to your service name. For example: **ForumAccounts**
+4. Copy the renamed directory and its files to the source code repository for your service.
+5. Read all topics in the [Documentation SDK](https://devportal.yaas.io/tools/) to learn how to manage your documentation, register it in the Dev Portal, submit content for review, and publish.
 
 ## Usage 
 Use the templates to develop your documentation in the YaaS style. See the the Dev Portal topic **Tools & Resources** > **Documentation Guidelines** for writing guidelines and Style & Standard requirements. 
