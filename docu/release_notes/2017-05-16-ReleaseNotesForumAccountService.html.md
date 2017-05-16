@@ -29,7 +29,7 @@ An engaging release note:
   + Related information such as migration instructions
 
 ## Release note metadata
-Use the metadata at the beginning this file as a template. For each release note you publish, update the values of the metadata attributes as follows:
+Use the metadata at the beginning of this file as a template. For each release note you publish, update the values of the metadata attributes as follows:
 
 * **headline**: Provide a concise, descriptive headline that will appear as the name of your release note in the Dev Portal.
 * **date**: Enter the date in Month DD, YYYY format as shown at the beginning of this template.
