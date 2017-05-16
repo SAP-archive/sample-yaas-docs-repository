@@ -1,5 +1,5 @@
 ---
-title: 'Account Status'
+title: 'Forum Account Status'
 type: 'Details'
 ---
 
@@ -14,12 +14,12 @@ Each service must include one or more Details-type document. Details documents p
 In the metadata for each Details document, you can change the 'title' to any concise, descriptive title. The 'type' must remain 'Details'. 
 
 ### Example content
-Here is an example of Details-level content for the fictional Accounts service in the imaginary **Forums** package: 
+Here is an example of Details-level content for the fictional Forum Accounts service in the imaginary **Forums** package: 
 
-Use the Accounts service to manage account statuses for your online forum users. These statuses are available by default: 
+Use the Forum Accounts service to manage account statuses for your online forum users. These statuses are available by default: 
 
 * **Active**: All user accounts with sign-in activity within the most recent 18 months are active.
 * **Inactive**: The service automatically assigns the `Inactive` status to forum user accounts with no sign-ins within the most recent 18 months. Other users cannot view activity or profiles for inactive accounts.  If users of inactive accounts sign in at any time, the system assigns the `Active` status to their accounts. 
 * **Deleted**: Accounts can only be deleted manually, either by the account owner or by a forum administrator. Administrators might decide to delete a user account based on violations of forum rules. Deleted accounts are not retrievable by the user or an administrator. The service archives all data for deleted accounts. 
 
-You can create additional account statuses using the `/{tenant}accounts/status` endpoint. See the API Reference in the Accounts service documentation for details. 
+You can create additional account statuses using the `/{tenant}/forumAccounts/status` endpoint. See the API Reference in the Forum Accounts service documentation for details. 
