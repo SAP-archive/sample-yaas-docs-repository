@@ -5,6 +5,9 @@ type: 'Details'
 
 Scopes are strings that specify permissions to access resources and operations in your service. For example, a scope string may represent permission to write data to a data repository. If your service communicates with other YaaS services, you must provide a scopes document.
 
+### Scopes metadata
+Preserve the metadata title and type shown in this Scopes file. Do not rename either attribute. 
+
 ### Example content
 
 Scopes are strings that specify permissions to access resources and operations in your service. For example, a scope string may represent permission to write data to a data repository.
