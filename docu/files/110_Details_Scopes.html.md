@@ -19,6 +19,7 @@ general, see:
 
 ### Scopes
 The Accounts service supports these scopes: 
+
 | Scope   |   Description  | Selected examples of use  |
 |---|---|
 |**forum.accounts_view** | Use this scope to view an existing forum account. |  
