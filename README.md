@@ -8,7 +8,6 @@ Download this repository as a template for your own YaaS service documentation r
 ## Table of Contents
 This README file includes important information that you should know regarding the documentation repository template and your use of the YaaS open source content. Click a link to jump to the selected section. 
 
-* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Defects and Feedback](#defects-and-feedback)
