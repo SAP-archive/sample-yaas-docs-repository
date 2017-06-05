@@ -37,16 +37,6 @@ File a defect report if the issue meets all of these requirements:
 
 When you report an issue, a user with permissions to commit will either follow up on a resolution, ask for more details, or close the ticket if the issue is not valid. Issue reports will be properly commented for your verification.
 
-#### Reporting Security Issues
-
-If you find a security issue, please act responsibly and report it directly to YaaS, instead of the public issue tracker. 
-
-To report a security issue: 
-1. Go to https://devportal.yaas.io/.
-2. Click a feedback button, link, or icon. 
-3. Enter all details concerning the issue. 
-4. Click **Submit**.
-
 ##### Issue Reporting Disclaimer
 
 We want to improve the quality of this project and good bug reports are welcome! But because capacity is limited, we cannot handle questions or consultation requests and cannot always probe for required details not provided in the feedback. We reserve the right to close or not process insufficient defect reports in favor of cleanly-documented and reproducible issues. Even though we would like to solve each well-documented issue, there is always the chance that it won't happen. Remember, this is an open source project and it comes without a warranty.
